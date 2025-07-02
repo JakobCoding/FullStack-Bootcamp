@@ -17,6 +17,8 @@ Underground Internet Cables across the world!
 
 **Create a Portfolio**
 
+One of the most important things when getting hired as a web developer or programmer is your portfolio. Employer's will be looking to see what your made of, what your capabilities are and what you can do and all of that can be displayed using a great portfolio website.
+
 Here's agreat example of portfolio website:
 https://mattfarley.ca/
 
