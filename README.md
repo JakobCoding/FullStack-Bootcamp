@@ -1,4 +1,4 @@
-# <em>FullStack - Web Development</em>🏛️
+# <em>FullStack - Web Development</em> - 🏛️
 
 ![image](/Images/Banner.png)
 
