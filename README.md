@@ -1,4 +1,4 @@
-# <em>FullStack - Bootcamp</em>🏛️
+# <em>FullStack - Web Development</em>🏛️
 
 ![image](/Images/Banner.png)
 
